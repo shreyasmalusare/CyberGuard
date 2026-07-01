@@ -24,7 +24,6 @@ Jinja2==3.1.6
 joblib==1.4.2
 lxml==6.1.1
 MarkupSafe==3.0.2
-metatrader5==5.0.5735
 mysql-connector-python==9.7.0
 numpy==2.2.4
 pandas==2.2.3
